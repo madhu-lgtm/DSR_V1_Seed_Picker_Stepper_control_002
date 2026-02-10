@@ -1,0 +1,3 @@
+- Upload "digital_write_002.ino" for the nano which needs to read pwm from FC or Reciver or Servo tester
+- Upload "dsr_nema17_42hs48_1684_009_02.ino" for the nano which needs to control the stepper motor
+- Follow the the circuit diagram for connections (Add two optional switches for two nano on Vin pins, Thurn them OFF when uploding the code)
