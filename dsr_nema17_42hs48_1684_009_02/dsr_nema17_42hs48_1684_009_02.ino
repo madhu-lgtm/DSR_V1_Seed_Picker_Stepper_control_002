@@ -1,6 +1,6 @@
 /*
 
-Code Version 9.2:- implement Interrupt for reading digital pin 10 (Works in combination with "digital_write_001.ino")
+Code Version 9.2:- implement Interrupt for reading digital pin 10 (Works in combination with "digital_write_002.ino")
 Code Version 9.1:- Read Digital Read Pin From other Arduino Nano (Which is Reading PWM from FC or Reciver)
 Code Version 9 :- Falling back to general (not using accel lib)
 Code Version 8 :- Facing an issue with reading PWM , implementing knob(Hw 040) for increasing and decreasing the pwm val manually.
